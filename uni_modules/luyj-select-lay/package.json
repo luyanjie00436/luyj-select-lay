@@ -1,7 +1,7 @@
 {
   "id": "luyj-select-lay",
   "displayName": "select 下拉搜索栏",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "简单的下拉搜索组件",
   "keywords": [
     "uni-ui",
@@ -57,10 +57,10 @@
           "QQ浏览器(Android)": "u"
         },
         "H5-pc": {
-          "Chrome": "u",
+          "Chrome": "y",
           "IE": "u",
           "Edge": "u",
-          "Firefox": "u",
+          "Firefox": "y",
           "Safari": "u"
         },
         "小程序": {
